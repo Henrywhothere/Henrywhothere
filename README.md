@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai, machine learning, technology,...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding
-- 📫 Contact me: henry.mlengineer.com
+- 📫 Contact me: henry.mlengineer@gmail.com
 
 <!---
 Henrywhothere/Henrywhothere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
