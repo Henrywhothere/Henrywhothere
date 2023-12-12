@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Henrywhothere
-- 👀 I’m interested in Ai, machine learning, technology,...
+- 👋 Hi, I’m Henry
+- 👀 I’m interested in Python, Ai, machine learning, technology,...
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on coding
-- 📫 Contact me: henry.mlengineer@gmail.com
+- 📫 If you want to code something with me, please contact: henry.mlengineer@gmail.com
 
-<!---
-Henrywhothere/Henrywhothere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
